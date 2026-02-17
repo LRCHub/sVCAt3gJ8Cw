@@ -1,0 +1,49 @@
+# Seether – Gasoline
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Last night I saw
+that beauty queen
+Watched her paint her face on
+I wanna be that magazine
+That she bases life on
+I wanna waste her monthly blood
+Wanna get some on my love
+Wanna get some gasoline
+And burn the house down
+She's got nothing to say
+She's got bills to pay
+She's got no one to hate
+Except for me
+<♪>
+Last night I saw
+that beauty queen
+She's getting high on Revlon
+I wanna be that magazine
+That she wastes her life on
+I wanna waste her monthly blood
+Wanna get some on my love
+Wanna get some gasoline
+And burn the house down
+She's got nothing to say
+She's got bills to pay
+She's got no one to hate
+Except for me Me
+When I saw that beauty queen
+Watched her paint her face on
+I wanna be the one unclean
+That she wipes her ass on
+I wanna waste her monthly blood
+Wanna get some on my love
+Wanna get some gasoline
+And burn the house down
+She's got nothing to say
+She's got bills to pay
+She's got no one to hate
+Except for me
+She's got nothing but shame
+She takes pills for pain
+She's got no one to blame
+Except for me for me
+```
