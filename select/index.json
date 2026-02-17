@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Gasoline",
+  "base_artist": "Seether",
+  "createdAt": "2026-02-17T17:02:52.867819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Gasoline",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/01_A_Little_Gasoline_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Little Gasoline (Album Version)",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/02_A_Little_Gasoline_(Album_Version)_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gasoline Dreams (with Khujo Goodie)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/03_Gasoline_Dreams_(with_Khujo_Goodie)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gasoline Dreams (feat. Khujo)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/04_Gasoline_Dreams_(feat._Khujo)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gasoline Alley",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/05_Gasoline_Alley_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gasoline",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/06_Gasoline_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gasoline",
+      "artist": "The Airborne Toxic Event",
+      "has_synced": false,
+      "path": "select/07_Gasoline_The_Airborne_Toxic_Event.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gasoline",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/08_Gasoline_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gasoline & Mirrors",
+      "artist": "Bibio feat. Wax Stag",
+      "has_synced": true,
+      "path": "select/09_Gasoline_&_Mirrors_Bibio_feat._Wax_Stag.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gasoline & Mirrors (feat. Wax Stag)",
+      "artist": "Bibio",
+      "has_synced": true,
+      "path": "select/10_Gasoline_&_Mirrors_(feat._Wax_Stag)_Bibio.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gasoline",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/11_Gasoline_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Price Of Gasoline",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/12_Price_Of_Gasoline_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Price of Gasoline",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/13_Price_of_Gasoline_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Price Of Gasoline - Automato Remix",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/14_Price_Of_Gasoline_-_Automato_Remix_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gasoline",
+      "artist": "The Dead Weather",
+      "has_synced": true,
+      "path": "select/15_Gasoline_The_Dead_Weather.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rainbows In Gasoline",
+      "artist": "The Ghost of a Saber Tooth Tiger",
+      "has_synced": true,
+      "path": "select/16_Rainbows_In_Gasoline_The_Ghost_of_a_Saber_Tooth_Tiger.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blood and Gasoline",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/17_Blood_and_Gasoline_Virgin_Steele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gasoline",
+      "artist": "Seether",
+      "has_synced": false,
+      "path": "select/pl_01_Gasoline_Seether.txt"
+    }
+  ]
+}
